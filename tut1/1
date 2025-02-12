@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML ,CSS ">
+    <meta name="description" content="working harder this year"
+    <title> <em>My first web page </em> </title>
+    <style> 
+        img{
+            width: 100px;
+            border-radius: 50px;
+            float: left;
+            margin-right: 10px;
+        }
+        .username{
+            font-weight: bold;
+        }
+        em{
+            color: red;
+            font-style: normal;
+        }
+    </style>
+</head>
+<body>
+    <h1>Heading1</h1>
+    <h2>Html</h2>
+    <p>html tutorial</p>
+    <h2>CSS</h2>
+    <p>css tutorial</p>
+    <h3>Code</h3>
+    <h3>excercise</h3>
+    <h4>JOY</h4>
+    <img src="images/IMG-20240918-WA0092.jpg" alt="image of Wanjiru">
+    <p class="username">@bl.wanjiru</p>
+    <p>I love to teach you &lt;HTML&gt;&copy; 
+</body>
+</html>
